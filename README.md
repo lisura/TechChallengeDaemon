@@ -2,7 +2,7 @@
 
 Solutions for the exercise list.  
 
-The exercise 
+The exercise  
  1 - Check if two arrays are equal or not;  
  2 - Stock Buy Sell to Maximize Profit;  
  3 - Sort an array in wave form;  
