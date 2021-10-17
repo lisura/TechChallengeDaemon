@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaemonChallengeAPI", "DaemonChallengeAPI\DaemonChallengeAPI.csproj", "{46F26D18-8846-4F90-8B52-DDEC4FABEDBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaemonChallengeAPITests", "DaemonChallengeAPITests\DaemonChallengeAPITests.csproj", "{0F90ABF1-849C-4C0F-B0AE-C5239FEE88C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46F26D18-8846-4F90-8B52-DDEC4FABEDBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46F26D18-8846-4F90-8B52-DDEC4FABEDBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46F26D18-8846-4F90-8B52-DDEC4FABEDBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46F26D18-8846-4F90-8B52-DDEC4FABEDBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F90ABF1-849C-4C0F-B0AE-C5239FEE88C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F90ABF1-849C-4C0F-B0AE-C5239FEE88C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F90ABF1-849C-4C0F-B0AE-C5239FEE88C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F90ABF1-849C-4C0F-B0AE-C5239FEE88C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16585066-F716-4B45-9E62-0F3C20EB6E1C}
+	EndGlobalSection
+EndGlobal
